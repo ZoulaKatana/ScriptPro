@@ -1,2 +1,0 @@
-# ScriptPro
-ProScript
